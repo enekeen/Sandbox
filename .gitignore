@@ -1,2 +1,13 @@
-# Project exclude paths
-/out/
+# Ignore files with type "class"
+*.class
+
+# Ignore files with type "txt"
+*.txt
+
+# Ignore "out" directory
+/out
+/.idea/
+/startjava.iml
+
+# Ignore all "test" directories
+test/
